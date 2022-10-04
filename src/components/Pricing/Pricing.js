@@ -12,7 +12,7 @@ const Pricing = () => {
             'Ajaira Feature'
         ]},
         {id:2, name:'Medium', price:9.99, features: [
-            'Awesome Feature',
+            'Everything on free',
             'Extra Feature',
             'Unnecessary Feature',
             'Will never use Feature',
@@ -20,7 +20,7 @@ const Pricing = () => {
             'Ajaira Feature'
         ]},
         {id:3, name:'Premium', price:19.99, features: [
-            'Awesome Feature',
+            'Everything on premium',
             'Extra Feature',
             'Unnecessary Feature',
             'Will never use Feature',
